@@ -1,2 +1,2 @@
 # online-react-sandbox
-Created with CodeSandbox
+Add Yotpo assets to test
